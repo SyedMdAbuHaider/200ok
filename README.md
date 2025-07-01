@@ -3,7 +3,7 @@ Domain Checker: Bash script to ping domains from a list file, identifying live o
 
 Installing the tool
 --------------------------
-1) git clone https://github.com/SyedMdAbuHaider/live_dom_check.git
+1) https://github.com/SyedMdAbuHaider/200ok
 2) cd live_dom_check
 3) chmod +x *
 4) ./livedom.sh example.txt 
